@@ -1,13 +1,2 @@
-EventNo,CardCode,CardName,CardPosition,DrawYear,DrawMonth,DrawDay,EventTitle,Location,Name,PrizeAmount,PrizeTitle,PrizeTypeId,TicketNo,PrizeImage
-13,fiveh,5 of Hearts,23,2021,3,22,Draw #13,"Toronto, ON",sandra h.,6,POT Prize,1,A-2885391,[
-        displayOrder, mimeType, url 
-        1, image/png,https://d2nmcp36gfbg9g.cloudfront.net/ad6b7c6c-b6be-4812-8b1e-3c5e61431152/prize-2140-600-09.png
-      ]
-18,sixs,6 of Spades,22,2021,4,7,QA 7 CTA Week1,Markham,sandra h.,120,POT Prize,1,A-1712197,[
-        displayOrder, mimeType, url 
-        2, image/png,https://d2nmcp36gfbg9g.cloudfront.net/ad6b7c6c-b6be-4812-8b1e-3c5e61431152/prize-2140-600-09.png
-      ]
-17,sixs,6 of Spades,22,2021,4,7,QA 7 CTA Week1,bahhh,sandra h.,120,POT Prize,1,A-1712197,[
-        displayOrder, mimeType, url 
-        3, image/png,https://d2nmcp36gfbg9g.cloudfront.net/ad6b7c6c-b6be-4812-8b1e-3c5e61431152/prize-2140-600-09.png
-      ]
+eventNo,cardCode,cardName,cardPosition,isoDrawDate,drawDay,drawMonth,drawYear,eventTitle,location,name,prizeAmount,prizeDescription,prizeTitle,prizeTypeId,ticketNo,prizeImages/0/displayOrder,prizeImages/0/mimeType,prizeImages/0/url
+6,aces,Ace of Spades,12,2021-01-12T00:00:00,12,JAN,2021,Week 12,"Moncton, NB",Marla Singer,78334,This is the prize description!,POT Prize,1,A-1234567,1,image/png,https://d2nmcp36gfbg9g.cloudfront.net/ad6b7c6c-b6be-4812-8b1e-3c5e61431152/prize-2140-600-09.png
