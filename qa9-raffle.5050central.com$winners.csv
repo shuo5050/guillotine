@@ -1,7 +1,10 @@
-EventNo,CardCode,CardName,CardPosition,DrawYear,DrawMonth,DrawDay,EventTitle,Location,Name,PrizeAmount,PrizeDescription,PrizeTitle,PrizeTypeId,TicketNo,PrizeImage
-13,fiveh,5 of Hearts,23,2021,3,22,Draw #13,"Toronto, ON",sandra h.,6,description1,POT Prize,1,A-2885391,displayOrder,mimeType,url
-1, image/png, https://d2nmcp36gfbg9g.cloudfront.net/ad6b7c6c-b6be-4812-8b1e-3c5e61431152/prize-2140-600-09.png
-18,sixs,6 of Spades,22,2021,4,7,QA 7 CTA Week1,Markham,sandra h.,120,description2,POT Prize,1,A-1712197,displayOrder,mimeType,url
-2, image/png, https://d2nmcp36gfbg9g.cloudfront.net/ad6b7c6c-b6be-4812-8b1e-3c5e61431152/prize-2140-600-09.png
-17,sixs,6 of Spades,22,2021,4,7,QA 7 CTA Week1,bahhh,sandra h.,120,description3,POT Prize,1,A-1712197,displayOrder,mimeType,url
-3, image/png, https://d2nmcp36gfbg9g.cloudfront.net/ad6b7c6c-b6be-4812-8b1e-3c5e61431152/prize-2140-600-09.png
+EventNo,CardCode,CardName,CardPosition,DrawYear,DrawMonth,DrawDay,EventTitle,Location,Name,PrizeAmount,PrizeDescription,PrizeImage,PrizeTitle,PrizeTypeId,TicketNo
+13,fiveh,5 of Hearts,23,2021,3,22,Draw #13,"Toronto, ON",sandra h.,6,description1,{displayOrder,mimeType,url
+1, image/png, https://d2nmcp36gfbg9g.cloudfront.net/ad6b7c6c-b6be-4812-8b1e-3c5e61431152/prize-2140-600-09.png},
+POT Prize,1,A-2885391
+18,sixs,6 of Spades,22,2021,4,7,QA 7 CTA Week1,Markham,sandra h.,120,description2,{displayOrder,mimeType,url
+2, image/png, https://d2nmcp36gfbg9g.cloudfront.net/ad6b7c6c-b6be-4812-8b1e-3c5e61431152/prize-2140-600-09.png},
+POT Prize,1,A-2885391
+17,sixs,6 of Spades,22,2021,4,7,QA 7 CTA Week1,bahhh,sandra h.,120,description3,{displayOrder,mimeType,url
+3, image/png, https://d2nmcp36gfbg9g.cloudfront.net/ad6b7c6c-b6be-4812-8b1e-3c5e61431152/prize-2140-600-09.png},
+POT Prize,1,A-2885391
