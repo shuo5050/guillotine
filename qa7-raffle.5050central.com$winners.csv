@@ -1,4 +1,4 @@
-EventNo,CardCode,CardName,CardPosition,DrawYear,DrawMonth,DrawDay,EventTitle,Name,PrizeAmount,PrizeTitle,PrizeTypeId,TicketNo
-13,fiveh,5 of Hearts,23,2021,3,22,Draw #13,sandra h.,6,POT Prize,1,A-2885391
-18,sixs,6 of Spades,22,2021,4,07,QA 7 CTA Week1,sandra h.,120,POT Prize,1,A-1712197
-17,sixs,6 of Spades,22,2021,4,07,QA 7 CTA Week1,sandra h.,120,POT Prize,1,A-1712197
+EventNo,CardCode,CardName,CardPosition,DrawYear,DrawMonth,DrawDay,EventTitle,Location,Name,PrizeAmount,PrizeDescription,PrizeImageUrl,PrizeTitle,PrizeTypeId,TicketNo
+13,fiveh,5 of Hearts,23,2021,3,22,Draw #13,"Toronto, ON",sandra h.,6,blalala,https://d2nmcp36gfbg9g.cloudfront.net/ad6b7c6c-b6be-4812-8b1e-3c5e61431152/prize-2140-600-09.png,POT Prize,1,A-2885391
+13,fiveh,5 of Hearts,23,2021,3,22,Draw #13,"Toronto, ON",sandra h.,6,blalalsdfsdfsdfa,https://d2nmcp36gfbg9g.cloudfront.net/ad6b7c6c-b6be-4812-8b1e-3c5e61431152/prize-2140-600-09.png,POT Prize,1,A-2885391
+
